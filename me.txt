@@ -1,0 +1,3 @@
+Elastic IP Address cấu hình IP tĩnh trên AWS/EC2
+    Cấu hình IP tĩnh
+    
